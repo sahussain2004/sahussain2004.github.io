@@ -1,0 +1,10 @@
+a {
+    text-decoration: none;
+}
+a:link {
+    color: white;
+    background-color: gray;
+}
+a:visited {
+    color: gold;
+} 
