@@ -125,7 +125,7 @@
 }
 .content-card:hover {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
-    -ms-transform: scale(10);
+    -ms-transform: scale(10%);
     -moz-transform: scale(10%);
     -webkit-transform: scale(10%);
     -o-transform: scale(10%);

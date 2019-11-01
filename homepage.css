@@ -1,3 +1,7 @@
+* {
+    scroll-behavior: smooth;
+}
+
 header {
     height: 100vh;
 }
@@ -53,4 +57,14 @@ header {
     margin-right: auto;
     width: 75%;
     height: 200px;
+}
+
+nav {
+    position: fixed;
+    overflow: hidden;
+    bottom: 0;
+    margin: auto;
+    width: 93%;
+    z-index: 100;
+    display: block;
 }
