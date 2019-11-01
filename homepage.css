@@ -65,6 +65,7 @@ nav {
     bottom: 0;
     margin: auto;
     width: 93%;
+    max-width: 1000px;
     z-index: 100;
     display: block;
 }
