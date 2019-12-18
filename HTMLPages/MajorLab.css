@@ -1,0 +1,214 @@
+.leftrow {
+    display: flex;
+    flex-direction: column;
+    background-color: #03258a;
+    width: 125px;
+    line-height: 1.5;
+    height: 98.3vh;
+}
+
+.leftrowimg1 {
+    width: 100px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+
+.leftrowimg2 {
+    width: 55px;
+    padding-left: 35px;
+}
+
+.leftrowtext {
+    font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.leftrowtext:hover {
+    cursor: pointer;
+}
+
+.leftrowimg3 {
+    width: 55px;
+    padding-left: 35px;
+    fill: white;
+}
+
+.toprow {
+    display: flex;
+    flex-direction: row;
+    top: 0;
+}
+
+.toprowtext {
+    font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+}
+
+body {
+    display: flex;
+}
+
+.bigboycolumn {
+    display: flex;
+    flex-direction: column;
+}
+
+.toprowimg1 {
+    padding-left: 10px;
+    height: 40px;
+}
+
+.toprowimg1:hover {
+    cursor: pointer;
+}
+
+.leftrowimg1:hover {
+    cursor: pointer;
+}
+
+.leftrowimg2:hover {
+    cursor: pointer;
+}
+
+.leftrowimg3:hover {
+    cursor: pointer;
+}
+
+.toprowtext {
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.toprowtext:hover {
+    cursor: pointer;
+}
+
+.middlestuff {
+    display: flex;
+    flex-direction: row;
+}
+
+.pages {
+    display: flex;
+    flex-direction: column;
+    width: 192px;
+    height: 352;
+    padding-left: 15px;
+    padding-top: 35px;
+}
+
+.pages-text {
+    width: 156px;
+    height: 36px;
+    font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+    color: darkblue;
+    font-weight: bold;
+}
+
+.top-page {
+    font-size: 0.6875rem;
+    font-style: italic;
+    color: gray;
+    padding-bottom: 15px;
+}
+
+.pages-text:hover {
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.toprowtext:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.title {
+    font-size: 28.8px;
+    height: 37px;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+
+.firstcolumn {
+    padding-top: 15px;
+    padding-bottom: 25px;
+    width: 753px;
+    display: flex;
+}
+
+.secondcolumn {
+    font-family: "Lato", "Helvetica Neue", sans-serif;
+    padding-bottom: 15px;
+}
+
+.thirdcolumn {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-bottom: 15px;
+}
+
+.fourthcolumn {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.fifthcolumn {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 12px;
+    margin-bottom: 50px;
+}
+
+.sixthcolumn {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 50px;
+}
+
+.seventhcolumn {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+.eighthcolumn {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+.ninthcolumn {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 50px;
+}
+
+.tenthcolumn {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.spandue {
+    color: black;
+    height: 19px;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 0px 8px 0px 0px;
+    font-size: 16px;
+    padding-right: 20px;
+}
+
+.spanduetext {
+    color: black;
+    height: 19px;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    padding: 0px 32px 0px 0px;
+}
+
+.submit {
+    margin: auto;
+    padding-top: 20px;
+    padding-left: 400px;
+}
+
+.submit:hover {
+    cursor: pointer;
+}
